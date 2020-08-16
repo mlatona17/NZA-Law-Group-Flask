@@ -1,0 +1,5 @@
+NZA_Law_env/
+__pycache__/
+.vscode/
+.env
+nza_env
